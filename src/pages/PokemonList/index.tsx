@@ -1,5 +1,9 @@
+import Header from "./Header";
+
 const PokemonList = () => {
-  return <div>POKEMONLIST</div>;
+  return <section>
+    <Header/>
+  </section>;
 };
 
 export default PokemonList;
